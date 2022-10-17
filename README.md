@@ -8,7 +8,7 @@
 - Hobbies: cooking, mixology, video games, art, skiing
 
 ### Resume
-📄 Check out my resume [here](https://github.com/Olcatsy/Olcatsy/blob/main/Olga-filiushkina-resume-2022.pdf)
+📄 Check out my resume [here](https://github.com/Olcatsy/Olcatsy/blob/main/Olga%20FiliushkinaResume.pdf)
 
 ### Freelance Work
 
