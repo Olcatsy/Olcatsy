@@ -12,7 +12,7 @@
 
 ### Freelance Work
 
-🐛[Worm's Eye View](https://saramaston.com/worms-eye-view/) - an interactive art piece/game created for [Sara Maston](https://saramaston.com/#home). This project is an exploration a non-human perspectives, told through various buried artifacts. The player takes on a role of a critter that is tasked with digging up these artifacts.[repo](https://github.com/Olcatsy/worms-eye-view)
+🐛[Worm's Eye View](https://saramaston.com/worms-eye-view/) - an interactive art piece/game created for [Sara Maston](https://saramaston.com/#home). This project is an exploration a non-human perspectives, told through various buried artifacts. The player takes on a role of a critter that is tasked with digging up these artifacts. [repo](https://github.com/Olcatsy/worms-eye-view)
 
 ### Bootcamp Projects
 
