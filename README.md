@@ -2,7 +2,8 @@
 
 - Pronouns: she/they
 - Graduated from Juno College (FKA HackerYou) coding bootcamp in 2020
-- Skills: React, JS, HTML, CSS/SCSS, REST APIs, Jest, Cypress, responsive design, Figma
+- Worked at Shopkick and Priceline.com
+- Skills: React, Vue, JavaScript/TypeScript, HTML, CSS/SCSS, REST APIs, GraphQL, Jest, Cypress, responsive design, web accessibility, Figma, design systems/Storybook, Git/Github, Agile
 - Interests: UI Architechture, component libraries, animation, web accessibility, testing
 - Hobbies: cooking, mixology, video games, art, skiing
 
