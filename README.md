@@ -2,14 +2,14 @@
 
 - Pronouns: she/they
 - Graduated from Juno College (FKA HackerYou) coding bootcamp in 2020
-- Worked at Shopkick and Priceline.com
+- I have 4+ years of experience and I've worked at Shopkick and Priceline.com
 - Skills: React, Vue, JavaScript/TypeScript, HTML, CSS/SCSS, REST APIs, GraphQL, Jest, Cypress, responsive design, web accessibility, Figma, design systems/Storybook, Git/Github, Agile
 - Interests: UI Architechture, component libraries, animation, web accessibility, testing
 - Hobbies: cooking, mixology, video games, art, skiing
 
 ### Resume
-📄 Check out my resume [here](https://github.com/Olcatsy/Olcatsy/blob/main/Olga%20Filiushkina%20-%20Resume%202024.pdf)
 
+📄 Check out my resume [here](https://github.com/Olcatsy/Olcatsy/blob/main/Olga%20Filiushkina%20-%20Resume%202024.pdf)
 
 ### Freelance Work
 
